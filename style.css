@@ -13,13 +13,18 @@
 
 
 
-.nav .logo{
+.img logo{
     width: 160px;
     cursor: pointer;
     margin-top: -3%;
     margin-left: -2%;
-    border-radius: 200px;
+   border: radius circle 50px;
 }
+
+.edit-logo{
+    border-radius: 50%;
+}
+
 ul{
     margin-top: -4%;
     margin-right: 100bpx;
@@ -83,12 +88,12 @@ background: rgb(59,174,209);
 }
 .image img{
     position: absolute;
-    height: 130%;
-    left: 40%;
-    transform: translate(-55%);
-    border: 0;
-    transition: left 2s ease;
-    border-radius: 20px;
+  height: 350px;
+  left: 0px;
+  transform: translate(-55%);
+  border: 0;
+  transition: left 2s ease;
+  border-radius: 30px;
     
 }
 .image:hover{
