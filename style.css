@@ -6,6 +6,7 @@
     padding: 1px 0;
     align-items: center;
     justify-content: space-between;
+    height: 80;
 }
 .text{
     margin-right: 50px;
@@ -19,10 +20,21 @@
     margin-top: -3%;
     margin-left: -2%;
    border: radius circle 50px;
+
+}
+
+
+
+.edit-logo{
+    border-radius: 150%;
+   
+  
+   
 }
 
 .edit-logo{
-    border-radius: 50%;
+    width: 300;
+    height: auto;
 }
 
 ul{

@@ -54,4 +54,8 @@ display: flex end;
 .contact a {
 	color: #333;
 	text-decoration: none;
+	
+}
+.me-you{
+	color: chocolate;
 }
