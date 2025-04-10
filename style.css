@@ -109,15 +109,15 @@ ul li a:hover {
     color: rgb(230,104,59);
 }
 
-/* Responsive Styles
-@media (min-width: 768px) {
+Responsive Styles
+/* @media (min-width: 768px) { */
     .text {
         flex-direction: column; /* Keep vertical on desktop */
         align-items: flex-end;
     }
-}
 
-/* @media (max-width: 768px){}
+
+ @media (max-width: 768px){}
     .navbar {
       flex-direction: row;
       justify-content: space-between;
@@ -146,10 +146,10 @@ ul li a:hover {
       margin: 5px 0;
     }
   
-    /* .image {
+    .image {
       margin-top: 60px;
-    } */
-/*   
+    }
+   
     .icon a ion-icon {
       font-size: 40px;
-} */
+}
