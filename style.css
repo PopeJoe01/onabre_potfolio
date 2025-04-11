@@ -39,6 +39,7 @@
   .text ul {
     display: flex;
     gap: 15px;
+    display: normal;
   }
   
   ul li {
@@ -101,7 +102,7 @@
   }
   
   .image img {
-    max-width: 80%;
+    max-width: 300px;
     height: auto;
     border-radius: 20px;
   }
